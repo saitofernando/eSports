@@ -7,4 +7,4 @@
 
 ---
 
-:keyboard: com :purple_heart: por [Fernando Saito](https://www.linkedin.com/in/saitofernando/)
+Feito com :red_heart: por [Fernando Saito](https://www.linkedin.com/in/saitofernando/)
